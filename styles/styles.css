@@ -212,3 +212,91 @@ span {
     font-style: normal;
     font-weight: 500;
 }
+
+.comingSoon {
+    margin-top: 100px;
+    display: flex;
+}
+
+.circlePic {
+
+    width: 354.844px;
+    height: 354.844px;
+    flex-shrink: 0;
+    border-radius: 364.844px;
+    background: url("../resources/Ellipse 1.png"), lightgray -91.279px 0px / 0.038% 10% no-repeat;
+    margin: 25px;
+
+
+}
+
+.circlePic1 {
+    margin-left: 80px;
+    border-radius: 250px;
+    border: 15px solid #F00;
+    width: 400px;
+    height: 400px;
+    flex-shrink: 0;
+
+}
+
+.comingLeft {
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+.l1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+
+}
+
+.l2 {
+    margin-top: 0px;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+
+}
+
+.text {
+
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 393px;
+}
+
+.r5right {
+    margin-left: 150px;
+}
+
+.r5r {
+    color: #F00;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0;
+}
+
+.row5pic2 {
+    width: 140px;
+    height: 140px;
+   
+}
