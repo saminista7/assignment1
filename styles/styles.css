@@ -1,0 +1,33 @@
+.introBanner {
+    background-image: url("../resources/Banner\ Image.png");
+    width: 1320px;
+    height: 600px;
+    background
+}
+
+.introSubline {
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding: 177px 530px 16px;
+    text-align: center;
+}
+
+.introHeadline {
+
+    color: white;
+    padding: 16px 530px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+
+}
+
+.mainSec {
+
+    margin: 50px 140px;
+}
