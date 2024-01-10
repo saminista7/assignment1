@@ -497,3 +497,7 @@ span {
     display: flex;
     padding: 0px 640px ;
 }
+
+a{
+    text-decoration: none;
+}
