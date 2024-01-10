@@ -213,6 +213,92 @@ span {
     font-weight: 500;
 }
 
+.holidays {
+    margin-top: 100px;
+}
+
+.holidays-text {
+    margin-bottom: 0px;
+}
+
+.holidays-l1 {
+    text-align: center;
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.holidays-l2 {
+    margin-top: 0px;
+    text-align: center;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+
+.holidays-l3 {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.holidays-pic1 {
+    border-radius: 16px 16px 0px 0px;
+    background: url("../resources/Rectangle 1.png"), lightgray -59.98px 0px / 151.553% 100% no-repeat;
+    width: 429px;
+    height: 433px;
+    margin-top: 100px;
+    margin-left: 891px;
+}
+
+.holidays .holidays-pic1 {
+    width: 206.841px;
+    height: 206.841px;
+    position: absolute;
+    transform: rotate(-5deg);
+    margin-left: -50px;
+    margin-top: 75px;
+}
+.disc1 {
+    width: 206.841px;
+    height: 206.841px;
+    position: absolute;
+    transform: rotate(-5deg);
+    margin-left: -50px;
+    margin-top: 75px;
+}
+
+
+.holidays-pic2 {
+    background: url("../resources/Rectangle 2.png");
+    width: 1320px;
+    height: 229px;
+    flex-shrink: 0;
+}
+
+.holidays-pic2 .box {
+    margin-top: -150px;
+    position: absolute;
+    height: 500px;
+    width: 500px;
+    margin-left: 35px;
+}
+
+
+
+
+
 .comingSoon {
     margin-top: 100px;
     display: flex;
