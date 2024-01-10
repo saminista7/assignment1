@@ -1,8 +1,10 @@
 .introBanner {
-    background-image: url("../resources/Banner\ Image.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../resources/Banner\ Image.png");
     width: 1320px;
     height: 600px;
-    background
+
+
+
 }
 
 .introSubline {
@@ -11,14 +13,17 @@
     font-style: normal;
     font-weight: 400;
     color: white;
-    padding: 177px 530px 16px;
+    padding-top: 177px;
+    padding-left: 530px;
+    padding-right: 530px;
     text-align: center;
 }
 
 .introHeadline {
 
     color: white;
-    padding: 16px 530px;
+    padding-right: 344px;
+    padding-left: 344px;
     text-align: center;
     font-family: Merriweather;
     font-size: 72px;
@@ -28,6 +33,26 @@
 }
 
 .mainSec {
+margin: 0px 140px;
+    
+}
 
-    margin: 50px 140px;
+
+
+.offerValue {
+    color: #F00;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left: 608px;
+    padding-right: 607px;
+}
+
+.offerInfo {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
 }
