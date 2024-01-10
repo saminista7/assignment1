@@ -2,9 +2,14 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../resources/Banner\ Image.png");
     width: 1320px;
     height: 600px;
+    border-radius: 16px;
+}
 
-
-
+.midnightBanner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../resources/Vectorrr.png");
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
 }
 
 .introSubline {
@@ -33,20 +38,21 @@
 }
 
 .mainSec {
-margin: 0px 140px;
-    
+    margin: 0px 140px 120px;
+    width: 1320px;
 }
 
 
 
 .offerValue {
+    text-align: center;
     color: #F00;
     font-family: Inter;
     font-size: 88px;
+    margin-bottom: 48px;
     font-style: normal;
     font-weight: 700;
-    padding-left: 608px;
-    padding-right: 607px;
+
 }
 
 .offerInfo {
@@ -55,4 +61,73 @@ margin: 0px 140px;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.category {
+    color: #070211;
+    margin: 0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.offerHNY {
+    width: 802.9px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.midnightTitle {
+    color: #FFF;
+    width: 642px;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin: 0;
+}
+
+.midnightText {
+    color: rgba(255, 255, 255, 0.80);
+    margin-bottom: 48px;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.midnightButton {
+    color: white;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 48px 32px;
+}
+
+.flexing {
+    display: flex;
+    justify-content: space-around;
+}
+
+#img2024 {
+    width: 320px;
+    height: auto;
+}
+
+.midnightLeft {
+    margin: 126px;
+}
+.midnightRight {
+    margin: 100px 150px 0px 0px;
 }
